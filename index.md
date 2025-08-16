@@ -8,3 +8,7 @@
 > Instead of imagining that our main task is to instruct a computer what to do,
 > let us concentrate rather on explaining to human beings what we want a computer to do.  
 > **Donald Knuth**
+
+* [Introduction](introduction)
+* [Philosophy](philosophy)
+* [Fundamentals](fundamentals)
